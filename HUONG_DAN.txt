@@ -1,0 +1,8 @@
+SIÊU SAO NHI ĐỒNG 315 - BẢN ĐÃ SỬA MÀN HÌNH ĐEN
+
+1. Mở index.html trên Chrome, Safari, Edge. File hoạt động ngay khi mở từ máy tính/điện thoại, không cần tải ảnh ngoài.
+2. Đưa toàn bộ folder lên host HTTPS (Netlify, GitHub Pages, Vercel, hosting của 315) để có link chia sẻ cho phụ huynh.
+3. Nội dung đã xóa bốc thăm; cho tải ảnh bé, chỉnh vị trí, điền 6 trường, xuất PNG, chia sẻ và sao chép caption.
+4. Để tạo nút mở bài Facebook, mở index.html bằng trình soạn thảo, tìm POST_URL = '' và dán URL bài minigame Facebook vào trong cặp dấu nháy.
+5. File frame.png và photo-mask.png được lưu kèm để đối chiếu/tinh chỉnh. Nội dung của chúng đã được nhúng sẵn trong HTML.
+6. Ảnh bé xử lý trong trình duyệt, không tự gửi về server.
